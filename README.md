@@ -1,4 +1,4 @@
-# Ruby rocks
+# Ruby rocks!
 
 [Exercism](https://exercism.org/) is an open source, not-for-profit project built by people from all backgrounds. With over one hundred dedicated maintainers and thousands of contributors, our goal is to create the best, free, code learning platform on the web.
 
